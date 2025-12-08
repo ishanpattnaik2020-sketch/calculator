@@ -1,6 +1,6 @@
 package lab6;
 import java.util.*;
-public class Q1 {
+public class calculator {
 	public static int additionSimple(int x, int y) {
 		return x+y;
 	}
